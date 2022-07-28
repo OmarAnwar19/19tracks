@@ -11,7 +11,7 @@ tags: [info, meta, welcome]
 
 Thanks for checking out 19tracks, and for being part of something great! This post primarily serves an introduction, and as an FAQ. This blog is primarily a hobby effort, as this has been something which I have wanted to start for a long time. Music is a huge part of my life, and I have always been someone who loves to deep dive into things, and analyze them; a trait which has naturally carried over to music. As a result, I have finally decided to tick this item off of my bucket list, and to start this website. I'm happy to have you here with me on this journey, and please, feel free to reach out to me through any of my social media links, in regards to questions, concerns, suggestions, or anything else. I am happy to help, or to just have a conversation 😀!
 
-![disc spinning gif](../assets/img/posts/turn-round.gif)
+![disc spinning](../assets/img/posts/anime-casette.jpg)
 
 ### Who am I?
 
@@ -39,4 +39,4 @@ Q: Where does the name 19tracks come from?
 
 Enough with the formalities already! Thanks again for stopping by, and I hope you enjoy your time here. Keep on the look out for new reviews, as they are always in the works, and posted as soon as I am able to bumble over my words and write something which is actually worth reading.
 
-![cowboy bebop end card gif](../assets/img/posts/end-bebop.gif)
+![cowboy bebop end card](../assets/img/posts/cowboy-bebop-bang.jpeg)
