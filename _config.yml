@@ -118,7 +118,7 @@ assets:
 pwa:
   enabled: true # the option for PWA feature
 
-paginate: 10
+paginate: 8
 
 # ------------ The following options are not recommended to be modified ------------------
 
@@ -199,3 +199,5 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+future: true # allow posts dated in the future
