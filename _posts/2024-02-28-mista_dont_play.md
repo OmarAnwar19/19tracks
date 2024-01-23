@@ -1,16 +1,8 @@
-<!-- ---
+---
 title: Mista Don’t Play Everything’s Working by Project Pat
 date: 2024-02-28 18:16:40 GMT+00:00
 categories: [Reviews, Hip Hop]
-tags:
-  [
-    Project Pat,
-    Loud,
-    RED,
-    album review,
-    hip hop,
-    gangsta rap,
-  ]
+tags: [Project Pat, Loud, RED, album review, hip hop, gangsta rap]
 ---
 
 # Mista Don’t Play: Everything’s Working by Project Pat
@@ -41,4 +33,4 @@ Mista Don’t Play: Everything’s Working is a solid-listen album for any fan o
 
 ### Lowlights: All of the skits, "We Can Get Gangsta", "Ooh Nuthin'"
 
---- -->
+---
