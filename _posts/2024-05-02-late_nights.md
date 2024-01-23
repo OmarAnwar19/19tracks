@@ -1,6 +1,6 @@
 ---
 title: Late Nights - The Album by Jeremih
-date: 2023-05-02 12:00:00 -500
+date: 2024-05-02 12:00:00 -500
 categories: [Reviews, R&B]
 tags: [Jeremih, Def Jam, Late Nights, album review]
 ---

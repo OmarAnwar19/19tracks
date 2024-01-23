@@ -1,6 +1,6 @@
 ---
 title: African Giant by Burna Boy
-date: 2023-04-16 12:00:00 -500
+date: 2024-04-16 12:00:00 -500
 categories: [Reviews, Afrobeats]
 tags: [Burna Boy, Spaceship, Atlantic, Warner, African Giant, album review]
 ---

@@ -1,6 +1,6 @@
 ---
 title: Crystal Castles by Crystal Castles
-date: 2023-03-12 12:00:00 -500
+date: 2024-03-12 12:00:00 -500
 categories: [Reviews, Electropunk]
 tags: [Crystal Castles, Lies, Last Gang, Fiction, Crystal Castles, album review]
 ---
