@@ -200,4 +200,4 @@ jekyll-archives:
     tag: /tags/:name/
     category: /categories/:name/
 
-future: true # allow posts dated in the future
+future: false # allow posts dated in the future

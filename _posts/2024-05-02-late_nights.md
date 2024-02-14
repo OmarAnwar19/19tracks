@@ -1,8 +1,9 @@
----
+\*---
 title: Late Nights The Album by Jeremih
 date: 2024-05-02 12:00:00 -500
 categories: [Reviews, R&B]
 tags: [Jeremih, Def Jam, Late Nights, album review]
+
 ---
 
 # Late Nights: The Album by Jeremih
@@ -30,3 +31,5 @@ Late Nights: The Album is a must-listen for any fan of R&B, and a solid album th
 ### Lowlights: Nothing significant, although the first half of the album is weaker.
 
 ---
+
+-
